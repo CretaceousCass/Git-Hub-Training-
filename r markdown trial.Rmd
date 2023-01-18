@@ -1,8 +1,8 @@
 ---
 title: "trial r markdown"
 output:
-  word_document: default
   html_document: default
+  word_document: default
   pdf_document: default
 date: "2023-01-18"
 ---
@@ -41,5 +41,7 @@ library(ggplot2)
 ```
 
 ![GALADRIEL](faint-omg.gif)/! [](faint-omg.gif)
+
+![Dino](dino.gif)/! [](dino.gif)
 
 
